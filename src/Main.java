@@ -8,7 +8,7 @@ public class Main {
         tree.insert(40, 4.0f);
         System.out.println(tree.search(50));
         System.out.println(tree.search(25));
-        System.out.println("Git: https://github.com/SEU_USUARIO/SEU_REPO");
+        System.out.println("Git: https://github.com/cdslucas97/Arvores_Multiway");
         System.out.println("YouTube: https://youtu.be/SEU_VIDEO");
     }
 }
