@@ -9,8 +9,8 @@ public class Node {
     Node child3;
     Node parent;
     public Node(int key, float value) {
+        numKeys = 1;
         key1 = key;
         val1 = value;
-        numKeys = 1;
     }
 }
