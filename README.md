@@ -15,4 +15,4 @@ O diretório `src` contém três classes essenciais
 3. `Main.java`  
    Demonstra inserções básicas, buscas e imprime links para o repositório e para o vídeo no YouTube
 
-Link do video do Youtube: https://www.youtube.com/
+[Link do video do Youtube](https://www.youtube.com/watch?v=EBBWuWoYd28)
